@@ -1,2 +1,2 @@
 # bug-report
-用来反馈cutefishos和cutefish desktop environment(de)的bug
+用来反馈Piscesys和Pisces desktop environment(de)的bug
